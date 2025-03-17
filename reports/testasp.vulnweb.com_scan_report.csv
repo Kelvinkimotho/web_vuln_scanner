@@ -1,0 +1,13 @@
+ports,headers,ssl,sql
+"{80: {'state': 'open', 'reason': 'syn-ack', 'name': 'http', 'product': '', 'version': '', 'extrainfo': '', 'conf': '3', 'cpe': ''}}",,,
+,private,,
+,text/html,,
+,Microsoft-IIS/8.5,,
+,ASPSESSIONIDAAAAARQQ=AOHAGFMDBOLEGEEPOEMLHKBA; path=/,,
+,ASP.NET,,
+,"Mon, 17 Mar 2025 14:53:23 GMT",,
+,3561,,
+,,SSL check failed: timed out,
+,,,Vulnerable
+,,,Vulnerable
+,,,Vulnerable

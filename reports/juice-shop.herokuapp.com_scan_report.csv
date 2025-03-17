@@ -1,0 +1,25 @@
+ports,headers,ssl,sql
+"{80: {'state': 'open', 'reason': 'syn-ack', 'name': 'http', 'product': '', 'version': '', 'extrainfo': '', 'conf': '3', 'cpe': ''}, 443: {'state': 'open', 'reason': 'syn-ack', 'name': 'https', 'product': '', 'version': '', 'extrainfo': '', 'conf': '3', 'cpe': ''}}",,,
+,bytes,,
+,*,,
+,"public, max-age=0",,
+,gzip,,
+,text/html; charset=UTF-8,,
+,"Mon, 17 Mar 2025 14:57:24 GMT",,
+,"W/""11708-195a47c599f""",,
+,payment 'self',,
+,"Mon, 17 Mar 2025 14:22:47 GMT",,
+,"{""report_to"":""heroku-nel"",""response_headers"":[""Via""],""max_age"":3600,""success_fraction"":0.01,""failure_fraction"":0.1}",,
+,"{""group"":""heroku-nel"",""endpoints"":[{""url"":""https://nel.heroku.com/reports?s=QlOd5o7pRiYv1xpKoQkSFwnlkaSkaRARaFS%2BvcNcwzs%3D\u0026sid=812dcc77-0bd0-43b1-a5f1-b25750382959\u0026ts=1742223444""}],""max_age"":3600}",,
+,"heroku-nel=""https://nel.heroku.com/reports?s=QlOd5o7pRiYv1xpKoQkSFwnlkaSkaRARaFS%2BvcNcwzs%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1742223444""",,
+,Heroku,,
+,Accept-Encoding,,
+,1.1 heroku-router,,
+,nosniff,,
+,SAMEORIGIN,,
+,/#/jobs,,
+,chunked,,
+,,True,
+,,,Safe
+,,,Safe
+,,,Safe

@@ -1,0 +1,7 @@
+flask
+flask-wtf
+requests
+python-nmap
+python-dotenv
+pandas
+fpdf

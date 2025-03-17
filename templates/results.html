@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<a href="{{ url_for('download_file', filename=report_filename) }}" class="btn btn-success">Download Report</a>
+<a href="/" class="btn btn-secondary">New Scan</a>
+<h2>Scan Results for {{ target }}</h2>
+
+<pre>{{ results | tojson(indent=2) }}</pre>
+
+
+{% endblock %}

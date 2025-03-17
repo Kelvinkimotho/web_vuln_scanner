@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% block content %}
+<h2 class="text-center">Web Vulnerability Scanner</h2>
+<form method="POST" class="mt-4">
+    <div class="mb-3">
+        <label class="form-label">Enter Target URL:</label>
+        <input type="text" name="target_url" class="form-control" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Scan</button>
+</form>
+{% endblock %}

@@ -1,0 +1,13 @@
+ports,headers,ssl,sql
+"{80: {'state': 'open', 'reason': 'syn-ack', 'name': 'http', 'product': '', 'version': '', 'extrainfo': '', 'conf': '3', 'cpe': ''}}",,,
+,nginx/1.19.0,,
+,"Mon, 17 Mar 2025 14:55:57 GMT",,
+,text/html; charset=UTF-8,,
+,chunked,,
+,keep-alive,,
+,PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1,,
+,gzip,,
+,,SSL check failed: timed out,
+,,,Vulnerable
+,,,Vulnerable
+,,,Vulnerable

@@ -1,0 +1,13 @@
+ports,headers,ssl,sql
+"{80: {'state': 'open', 'reason': 'syn-ack', 'name': 'http', 'product': '', 'version': '', 'extrainfo': '', 'conf': '3', 'cpe': ''}}",,,
+,nginx/1.19.0,,
+,"Mon, 17 Mar 2025 14:56:50 GMT",,
+,text/html; charset=utf-8,,
+,chunked,,
+,keep-alive,,
+,*,,
+,gzip,,
+,,SSL check failed: timed out,
+,,,Safe
+,,,Safe
+,,,Safe
